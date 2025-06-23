@@ -3,3 +3,7 @@
 /exported_models
 /model.ipynb
 /__pycache__
+df_contextual.csv
+X_context.csv
+X_seq,npy
+X_seq.npy
